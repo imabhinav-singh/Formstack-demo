@@ -1,0 +1,22 @@
+{
+  "name": "formstack-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@microsoft/microsoft-graph-client": "^2.2.1",
+    "filereader": "^0.10.3",
+    "googleapis": "^80.1.0",
+    "msal": "^1.0.0",
+    "msl": "^0.27.0",
+    "node-fetch": "^2.6.1",
+    "onedrive-api": "^1.0.1",
+    "simple-oauth2": "^4.2.0"
+  }
+}
