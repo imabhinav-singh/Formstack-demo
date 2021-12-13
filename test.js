@@ -9,7 +9,7 @@ const Graph = require('@microsoft/microsoft-graph-client')
 // An Optional options for initializing the MSAL @see https://github.com/AzureAD/microsoft-authentication-library-for-js/wiki/MSAL-basics#configuration-options
 const msalConfig = {
 	auth: {
-		clientId: "c4c9ef4a-65f5-4991-9e24-95d710620cac", // Client Id of the registered application
+		clientId: "<client-ID>", // Client Id of the registered application
 		redirectUri: "http://localhost",
 	},
 	cache: {

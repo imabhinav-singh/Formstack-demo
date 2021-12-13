@@ -6,7 +6,7 @@ const options = {
   headers: {
     Accept: 'application/json',
     'Content-Type': 'application/json',
-    Authorization: 'Bearer 6043cd1a041a3fd07d662f6dfc8ed460'
+    Authorization: 'Bearer <access-token-here>'
   },
   body: JSON.stringify({
     hide_label: false,
